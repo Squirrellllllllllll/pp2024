@@ -9,5 +9,5 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Dang Le Phuc An 
+* Student Name: DANG LE PHUC AN 
 * Student ID: BI11-005
